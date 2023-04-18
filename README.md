@@ -19,11 +19,14 @@ Here are some ideas to get you started:
   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=elsannadisney)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-# Most Use Language
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elsannadisney&layout=https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md&theme=tokyonight)
+<h1> <div align=center>Most Use Language</div></h1>
+  <div align=center>
+	
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elsannadisney&layout=https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md&theme=tokyonight)
 
-# number of visitors
-  <div align=left>
+   </div>	
+<h1> <div align=center>number of visitors</div></h1>
+  <div align=center>
 	
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com)
 	
