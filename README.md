@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <h1> <div align=center>Most Used Language</div></h1>
   <div align=center>
 	
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elsannadisney&layout=https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md&theme=tokyonight)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elsannadisney&layout=https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md&theme=tokyonight)
 
    </div>	
 <h1> <div align=center>Visitors</div></h1>
